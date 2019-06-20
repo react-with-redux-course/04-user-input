@@ -1,3 +1,3 @@
-# Handling User Input with Forms and Events
+# Making API Requests with React
 
-Event handlers
+Fetching data and handling requests
